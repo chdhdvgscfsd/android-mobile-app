@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Math Calculator</string>
+    <string name="formula_label">46Q - 10S + 24E </string>
+    <string name="output_label">0 </string>
+    <string name="action_settings">Q_Value</string>
+    <string name="action_settings2">S_Value</string>
+    <string name="action_settings3">E_Value</string>
+    <string name="btn_app_label">Submit</string>
+</resources>
