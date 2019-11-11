@@ -30,8 +30,9 @@ public class DummyContent {
     static {
         // Add some sample items.
         addItem(new DummyItem("1","milk"));
-
-
+        addItem(new DummyItem("2","bread"));
+        addItem(new DummyItem("3","rice"));
+        addItem(new DummyItem("4","butter"));
     }
 
 

@@ -23,8 +23,6 @@ import com.example.ass_2.dummy.DummyContent;
 
 import java.io.Serializable;
 
-
-
 public class MainActivity extends FragmentActivity
         implements ItemFragment.OnListFragmentInteractionListener,
         ItemDetailsFragment.OnFragmentInteractionListener {
