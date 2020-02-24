@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SideDish</string>
+    <string name="title_list">Restaurants List</string>
+    <string name="title_about">About</string>
+    <string name="author">Created By:</string>
+    <string name="title_author1">Trixia Principe</string>
+    <string name="title_author2">Collins Mbuton</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_desc">Description</string>
+    <string name="txt_phone_no">Phone #</string>
+</resources>
